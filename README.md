@@ -5,7 +5,6 @@
 <h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
-
 <p align="left">¡Hola! 👋 Soy Javier Hernández  <br>Apasionado por la tecnología y el desarrollo de software, actualmente estoy por finalizar mi Licenciatura en Desarrollo de Software en la Universidad Tecnológica de Panamá. Me encanta aprender nuevas herramientas y metodologías para resolver problemas de manera sencilla y eficiente, creando soluciones que realmente aporten valor.  <br><br>Me esfuerzo por crecer como profesional y contribuir al ámbito tecnológico con ideas innovadoras y proyectos colaborativos.  <br><br>✨ Siempre abierto a nuevas oportunidades, aprendizajes y colaboraciones.</p>
 
 ###
